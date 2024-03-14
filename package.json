@@ -1,17 +1,19 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "new1",
+    "name": "gh-Zava-23-new1",
+    "description": "A simple phcode.dev extension/theme.",
     "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "license": "unknown",
+    "author": "Zava-23",
+    "homepage": "https://github.com/Zava-23/new1",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode",
+        "theme",
+        "demo"
     ],
     "theme": {
         "file": "my-theme.less",
